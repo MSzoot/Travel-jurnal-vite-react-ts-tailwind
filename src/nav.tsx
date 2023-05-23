@@ -1,6 +1,6 @@
 const Navbar = () => {
   return (
-    <div className="flex h-[55px] items-center justify-center gap-2 bg-[#F55A5A] text-xl">
+    <div className="mb-4 flex h-[55px] items-center justify-center gap-2 bg-[#F55A5A] text-xl">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         fill="none"

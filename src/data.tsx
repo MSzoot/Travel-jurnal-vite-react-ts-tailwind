@@ -19,7 +19,8 @@ export default [
     endDate: '24 Jan, 2021',
     description:
       'Masca is a picturesque village located in the northwestern part of the island of Tenerife in the Canary Islands, Spain. Nestled amidst dramatic cliffs and lush green valleys, Masca offers breathtaking natural beauty and a charming, secluded atmosphere. The village is renowned for its stunning views, with towering mountains and a rugged coastline surrounding it.',
-    imageUrl: 'https://images.unsplash.com/photo-1545289666-5b934d291c6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80',
+    imageUrl:
+      'https://images.unsplash.com/photo-1545289666-5b934d291c6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80',
   },
   {
     id: 3,
