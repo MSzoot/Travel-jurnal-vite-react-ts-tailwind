@@ -1,6 +1,6 @@
 const Card = (prop: any) => {
   return (
-    <div className="mx-auto flex w-10/12 justify-center gap-6 border-b py-6 ">
+    <div className="mx-auto flex w-10/12 justify-start gap-6 border-b py-6 ">
       <img
         src={prop.place.imageUrl}
         alt="picture of visited place"
